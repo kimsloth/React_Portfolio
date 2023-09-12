@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+
 
 const Site = props => {
     return (
@@ -9,8 +9,6 @@ const Site = props => {
     );
 };
 
-Site.propTypes = {
-    
-};
+
 
 export default Site;

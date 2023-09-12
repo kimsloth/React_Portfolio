@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+
 
 const Port = props => {
     return (
@@ -9,8 +9,6 @@ const Port = props => {
     );
 };
 
-Port.propTypes = {
-    
-};
+
 
 export default Port;

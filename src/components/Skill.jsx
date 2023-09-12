@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+
 
 const Skill = props => {
     return (
@@ -9,8 +9,6 @@ const Skill = props => {
     );
 };
 
-Skill.propTypes = {
-    
-};
+
 
 export default Skill;
