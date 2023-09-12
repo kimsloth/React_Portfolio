@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React, {useState} from "react";
 
 const headerNav=[
     {
@@ -26,7 +26,7 @@ const headerNav=[
         url:"#contact"
     },
 
-]
+];
 
 const Header = () => {
     const [show, setShow]= useState(false);
